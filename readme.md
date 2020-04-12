@@ -62,13 +62,13 @@ Output
 The first line prints how many times 0 was written in the result of A × B × C. Likewise, from the second row to the tenth row, the number of digits 1 through 9 is written in the result of A × B × C, one by one in turn.
 Result
 -----------------------------------
-3/br
-1/br
-0/br
-2/br
-0/br
-0/br
-0/br
-2/br
-0/br
-0/br          
+3</br>
+1</br>
+0</br>
+2</br>
+0</br>
+0</br>
+0</br>
+2</br>
+0</br>
+0</br>
