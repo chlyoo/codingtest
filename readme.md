@@ -15,18 +15,19 @@ At the same time, the average of list "L" should be A.
 Example code below
 ----------------------------------------------
 <p>
+"""
 import random
 import numpy as np
 
 def averize(N,A):<br>
 	L=[]<br>
-	"""
+	
 
 	fill in the blank
 
-	"""
-	return L
 
+	return L
+"""
 
 
 <H2>TEST CASE</h2>
@@ -37,9 +38,9 @@ N=1000, A=3.754
 </p>
 <h2>Result</h2>
 --------------------------------------
-<p>print(np.mean(averize(100,2.65)))</p><br>
+<p>print(np.mean(averize(100,2.65)))</p>
 >>>2.65
-<p>print(np.mean(averize(1000,3.754)))</p><br>
+<p>print(np.mean(averize(1000,3.754)))</p>
 >>>3.754
 
 
