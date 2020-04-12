@@ -14,9 +14,9 @@ At the same time, the average of list "L" should be A.
 </p>
 Example code below
 ----------------------------------------------
-<code>
-	import random
-	import numpy as np
+<br>
+<code>	import random
+<code>	import numpy as np
 
 	def averize(N,A):
 		L=[]
@@ -25,7 +25,7 @@ Example code below
 		"""
 
 		return L
-</code>
+
 <H2>TEST CASE</h2>
 <P>
 N=100, A= 2.65
