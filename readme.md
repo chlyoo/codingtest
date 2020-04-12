@@ -15,16 +15,16 @@ At the same time, the average of list "L" should be A.
 Example code below
 ----------------------------------------------
 <code>
-import random
-import numpy as np
+	import random
+	import numpy as np
 
-def averize(N,A):
-	L=[]
-	"""
-	fill in the blank
-	"""
+	def averize(N,A):
+		L=[]
+		"""
+		fill in the blank
+		"""
 
-	return L
+		return L
 </code>
 <H2>TEST CASE</h2>
 <P>
