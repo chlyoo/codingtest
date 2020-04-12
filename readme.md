@@ -19,23 +19,22 @@ Example code below
 import random
 import numpy as np
 
-def averize(N,A):<br>
-	L=[]<br>
-	
-
+def averize(N,A):
+	L=[]
 	fill in the blank
 
 
 	return L
 """
-
+</p>
 
 <H2>TEST CASE</h2>
+<P>
 N=100, A= 2.65
 N=1000, A=3.754
 
 !Return type should be "list"
-</p>
+</P>
 <h2>Result</h2>
 --------------------------------------
 <p>print(np.mean(averize(100,2.65)))</p>
