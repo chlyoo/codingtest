@@ -1,10 +1,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/youpeterabb1t/codingtest)](https://repl.it/github/youpeterabb1t/codingtest)
 1. 본인의 파이썬 실력은? 파이썬으로 코딩해본 경험
 2. 프로그래밍 1,2, 문해방 외에 프로그래밍 수업 수강했는지?
-3. 웹 서비스 개발 해본적 있는지
-4. DB 사용해서 프로그래밍 해본적 있는지
-5. GoogleAPI나 다른 API 사용해본적 있는지
-
+3. 하루에 몇 시간 정도 투자할 수 있는지 얼마나 열심히 할 수 있는 지?
 
 <H1>#CodingTest</H1>
 
