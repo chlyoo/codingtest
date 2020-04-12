@@ -9,19 +9,17 @@
 <H1>#CodingTest</H1>
 
 <H1>#1</H1>
-Create a function to return the list "L" containing "N" numbers of random positive integers. 
+<p>Create a function to return the list "L" containing "N" numbers of random positive integers. 
 At the same time, the average of list "L" should be A.
-
-
-
+</p>
 Example code below
 ----------------------------------------------
 <p>
 import random
 import numpy as np
 
-def averize(N,A):
-	L=[]
+def averize(N,A):<br>
+	L=[]<br>
 	"""
 
 	fill in the blank
@@ -30,7 +28,7 @@ def averize(N,A):
 	return L
 
 
-"""
+
 <H2>TEST CASE</h2>
 N=100, A= 2.65
 N=1000, A=3.754
@@ -39,11 +37,10 @@ N=1000, A=3.754
 </p>
 <h2>Result</h2>
 --------------------------------------
-<p>print(np.mean(averize(100,2.65)))</p>
+<p>print(np.mean(averize(100,2.65)))</p><br>
 >>>2.65
-<p>print(np.mean(averize(1000,3.754)))</p>
+<p>print(np.mean(averize(1000,3.754)))</p><br>
 >>>3.754
-"""
 
 
 <H1>#2</H1>
@@ -63,7 +60,7 @@ A is given in the first row, B in the second row, and C in the third row. A, B, 
 <p>
 The first line prints how many times 0 was written in the result of A × B × C. Likewise, from the second row to the tenth row, the number of digits 1 through 9 is written in the result of A × B × C, one by one in turn.</p>
 <H3>Result</H3>
------------------------------------
+-----------------------------------</br>
 3</br>
 1</br>
 0</br>
