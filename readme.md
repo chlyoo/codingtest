@@ -16,6 +16,7 @@ At the same time, the average of list "L" should be A.
 
 Example code below
 ----------------------------------------------
+<p>
 import random
 import numpy as np
 
@@ -35,12 +36,12 @@ N=100, A= 2.65
 N=1000, A=3.754
 
 !Return type should be "list"
-
+</p>
 Result
 --------------------------------------
-@print(np.mean(averize(100,2.65)))
+<p>print(np.mean(averize(100,2.65)))</p>
 >>>2.65
-@print(np.mean(averize(1000,3.754)))
+<p>print(np.mean(averize(1000,3.754)))</p>
 >>>3.754
 """
 
@@ -61,13 +62,13 @@ Output
 The first line prints how many times 0 was written in the result of A × B × C. Likewise, from the second row to the tenth row, the number of digits 1 through 9 is written in the result of A × B × C, one by one in turn.
 Result
 -----------------------------------
-3                                      
-1
-0  
-2  
-0  
-0  
-0  
-2  
-0  
-0             
+3/br
+1/br
+0/br
+2/br
+0/br
+0/br
+0/br
+2/br
+0/br
+0/br          
