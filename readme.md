@@ -6,9 +6,9 @@
 5. GoogleAPI나 다른 API 사용해본적 있는지
 
 
-#CodingTest
+<H1>#CodingTest</H1>
 
-#1
+<H1>#1</H1>
 Create a function to return the list "L" containing "N" numbers of random positive integers. 
 At the same time, the average of list "L" should be A.
 
@@ -31,13 +31,13 @@ def averize(N,A):
 
 
 """
-TEST CASE 
+<H2>TEST CASE</h2>
 N=100, A= 2.65
 N=1000, A=3.754
 
 !Return type should be "list"
 </p>
-Result
+<h2>Result</h2>
 --------------------------------------
 <p>print(np.mean(averize(100,2.65)))</p>
 >>>2.65
@@ -46,7 +46,8 @@ Result
 """
 
 
-#2
+<H1>#2</H1>
+<p>
 Write a program to find out how many times each number is written from 0 to 9 in the calculation result of A × B × C 
 when three natural numbers A, B, and C are given.
 
@@ -54,13 +55,14 @@ For example, A = 150, B = 266, C = 427
 A × B × C = 150 × 266 × 427 = 17037300,
 
 As a result of calculation, 0 is 3 times, 1 is 1 time, 3 is 2 times, and 7 is 2 times in 17037300.
-
-Input
+</p>
+<H2>Input</H2>
 A is given in the first row, B in the second row, and C in the third row. A, B, and C are all natural numbers less than or equal to 100 and less than 1,000.
 
-Output
-The first line prints how many times 0 was written in the result of A × B × C. Likewise, from the second row to the tenth row, the number of digits 1 through 9 is written in the result of A × B × C, one by one in turn.
-Result
+<H2>Output</H2></br>
+<p>
+The first line prints how many times 0 was written in the result of A × B × C. Likewise, from the second row to the tenth row, the number of digits 1 through 9 is written in the result of A × B × C, one by one in turn.</p>
+<H3>Result</H3>
 -----------------------------------
 3</br>
 1</br>
