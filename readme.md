@@ -36,9 +36,9 @@ N=1000, A=3.754
 </P>
 <h2>Result</h2>
 --------------------------------------
-```print(np.mean(averize(100,2.65)))
+	print(np.mean(averize(100,2.65)))
 >>>2.65
-```print(np.mean(averize(1000,3.754)))
+	print(np.mean(averize(1000,3.754)))
 >>>3.754
 
 
